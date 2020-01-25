@@ -21,6 +21,12 @@ $ git commit -m "<Mensaje>"
 $ git log
 ```
 
+## Recuperar cambios de la nuve
+ ```
+ $ git pull origin master
+ ```
+ 
+
 ## Notas
 
 > Generar recordatorios para feedback de postworks
