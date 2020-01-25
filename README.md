@@ -21,7 +21,7 @@ $ git commit -m "<Mensaje>"
 $ git log
 ```
 
-## Recuperar cambios de la nuve
+## Recuperar cambios de la nube
  ```
  $ git pull origin master
  ```
